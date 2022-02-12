@@ -18,6 +18,8 @@
 - Host: Azure
 - Browser support : Microsoft Edge, Chrome, Firefox etc
 
+## Prodect demo video link: https://drive.google.com/drive/folders/1gYkuswlvC7zU5d7bCn4QKuBKo33R-0G1
+
 ## Images :
 
 ### Home Page :
