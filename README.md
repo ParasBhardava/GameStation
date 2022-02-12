@@ -1,6 +1,6 @@
 # Game Station
 
-Game Station : A simple and attractive static web app that contains 4 games
+## Game Station : A simple and attractive static web app that contains 4 games
 - This is a web based application developed for simple game pages.
 - It contains 4 games : Tic Tac Toe game, Memory game, Snack game, Dice game
 - Web app provides simple web gaming
@@ -18,4 +18,23 @@ Game Station : A simple and attractive static web app that contains 4 games
 - Host: Azure
 - Browser support : Microsoft Edge, Chrome, Firefox etc
 
-![home1](https://drive.google.com/file/d/1Qd6hPSHnfATqiKrs3Kp7Ff99KHDRGxWE/view)
+## Images :
+
+### Home Page :
+![home1](https://github.com/ParasBhardava/GameStation/blob/main/DESK/home1.png)
+
+
+![home2](https://github.com/ParasBhardava/GameStation/blob/main/DESK/home2.png)
+
+
+![home3](https://github.com/ParasBhardava/GameStation/blob/main/DESK/home3.png)
+
+
+![home4](https://github.com/ParasBhardava/GameStation/blob/main/DESK/home4.png)
+
+
+![home5](https://github.com/ParasBhardava/GameStation/blob/main/DESK/home5.png)
+
+
+![home6](https://github.com/ParasBhardava/GameStation/blob/main/DESK/home6.png)
+
