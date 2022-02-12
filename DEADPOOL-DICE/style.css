@@ -1,0 +1,58 @@
+* {
+  margin: 0;
+  padding: 0;
+  font-family: "Acme", sans-serif;
+}
+
+body {
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+  background-position: center;
+}
+
+.container {
+  width: 60%;
+  text-align: center;
+}
+
+.dice {
+  text-align: center;
+}
+
+.dices {
+  margin-top: 3rem;
+  display: flex;
+  justify-content: center;
+}
+
+h1 {
+  margin: 30px;
+  text-shadow: 2px 0 white;
+  font-size: 4rem;
+  color: #85050a;
+}
+
+p {
+  font-size: 3rem;
+  color: rgb(255, 255, 255);
+  margin-bottom: 1rem;
+}
+
+button {
+  padding: 10px;
+  background: #85050a;
+  color: white;
+  border: none;
+  width: 8rem;
+  height: 4rem;
+  margin: 3rem;
+  font-size: 1.5rem;
+  cursor: pointer;
+}
+
+img {
+  width: 60%;
+  background-color: #e4131a;
+  border-radius: 25%;
+}

@@ -1,0 +1,145 @@
+body {
+  background-color: rgb(21, 82, 252);
+  font-family: "Play", sans-serif;
+  color: white;
+}
+
+.face {
+  width: 70%;
+  height: 50%;
+  margin: auto;
+  border-radius: 50%;
+  background-color: rgb(21, 82, 252);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.home a {
+  text-decoration: none;
+  color: white;
+  font-size: xx-large;
+  letter-spacing: 2px;
+}
+.home a:hover {
+  color: #000;
+}
+
+.home {
+  text-align: center;
+  height: 38px;
+  width: 110px;
+  padding: 5px;
+  background-color: #fa305c;
+}
+
+.home:hover {
+  background-color: rgb(94, 252, 73);
+  border-radius: 20%;
+}
+
+.eyes {
+  width: inherit;
+  height: 250px;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  margin: auto;
+  background-color: #fbfd61;
+  border-radius: 25%;
+}
+
+.eye {
+  width: 180px;
+  height: 180px;
+  background-color: rgb(255, 255, 255);
+  border-radius: 50%;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  overflow: hidden;
+}
+
+.pupil {
+  width: 50px;
+  height: 50px;
+  background-color: black;
+  border-radius: 50px;
+}
+
+.smile {
+  width: 100px;
+  height: 100px;
+}
+
+.logo {
+  height: 15vh;
+  display: flex;
+  justify-content: space-around;
+  margin: 20px;
+}
+
+.games {
+  height: 35vh;
+  width: 90vw;
+  display: flex;
+  align-items: center;
+  text-align: center;
+  justify-content: space-between;
+  margin: 55px 60px 0 60px;
+}
+
+.game {
+  text-align: center;
+  padding: 20px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.gameimg {
+  height: 18vh;
+  width: 18vh;
+  margin: auto;
+}
+
+.game:hover {
+  border-radius: 20%;
+  background-color: rgb(0, 255, 0);
+  color: black;
+}
+
+.gameimg img {
+  height: 100%;
+  width: 100%;
+  border-radius: 50%;
+}
+
+.game h1 {
+  font-size: x-large;
+  cursor: pointer;
+}
+
+.logo img {
+  margin: 10px;
+  height: 150%;
+  border-radius: 50%;
+}
+
+.logo h1 {
+  align-self: center;
+  display: inline;
+  margin-left: 24vw;
+  border-bottom: 8px solid rgb(252, 48, 48);
+  letter-spacing: 2px;
+}
+
+#home {
+  margin-top: 20px;
+}
+
+.head {
+  width: 90%;
+  border-top: 2p solid red;
+  font-size: x-large;
+}

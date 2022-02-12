@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Snake Game</title>
+    <link rel="stylesheet" href="style.css" />
+    <link rel="icon" href="../DESK/photo_2021-10-20_00-13-42.jpg" />
+  </head>
+
+  <body>
+    <div class="body">
+      <div class="level">
+        <h1>CHOOSE DIFFICULTY</h1>
+        <button id="4" onclick="myfun(4)">EASY</button>
+        <button id="7" onclick="myfun(7)">MEDIUM</button>
+        <button id="11" onclick="myfun(11)">HARD</button>
+        <hr />
+        <div id="gameover"></div>
+        <div id="scoreboard">Score: 0</div>
+        <a href="../index.html"><button class="btn">HOME</button></a>
+      </div>
+      <div id="board"></div>
+    </div>
+  </body>
+  <script src="snake.js"></script>
+</html>

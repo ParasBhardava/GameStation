@@ -1,0 +1,199 @@
+body {
+  /* background: #FFEAC9; */
+  color: white;
+  font-family: arial;
+}
+
+body header {
+  height: 10vh;
+  width: 100%;
+  margin: 0 auto;
+  position: relative;
+}
+
+@media screen and (min-width: 37.4375em) {
+  body header {
+    width: 600px;
+  }
+}
+
+body header .timer {
+  position: absolute;
+  top: 14%;
+  left: 3%;
+  font-size: 23px;
+  background: #ffad29;
+  width: 8vh;
+  height: 8vh;
+  line-height: 8vh;
+  border-radius: 4vh;
+  text-align: center;
+}
+
+#myVideo {
+  position: fixed;
+  right: 0;
+  bottom: 0;
+  min-width: 100%;
+  min-height: 100%;
+  z-index: -1;
+}
+
+.game {
+  height: 85vh;
+  width: 100%;
+  position: relative;
+  margin: 0 auto;
+}
+
+button {
+  background: rgb(97, 97, 252);
+  color: black;
+  border: none;
+  width: 8rem;
+  height: 4rem;
+  font-size: 1.5rem;
+  cursor: pointer;
+}
+button:hover {
+  color: white;
+  background: none;
+  border: 2px solid #ff2151;
+}
+
+#gameover {
+  position: absolute;
+  top: 45%;
+  left: 2.5%;
+  font-size: x-large;
+  letter-spacing: 2px;
+  font-weight: bolder;
+  border-bottom: 2px solid #ffcca9;
+}
+
+.class1 {
+  position: absolute;
+  top: 40%;
+  left: 75%;
+}
+.class2 {
+  position: absolute;
+  top: 40%;
+  left: 85%;
+}
+
+@media screen and (min-width: 37.4375em) {
+  .game {
+    width: 600px;
+  }
+}
+
+.flip-container {
+  -webkit-perspective: 1000;
+  -moz-perspective: 1000;
+  perspective: 1000;
+  height: 22%;
+  margin: 1%;
+  cursor: pointer;
+}
+
+.flip-container.flip .flipper {
+  -webkit-transform: rotateY(180deg);
+  -moz-transform: rotateY(180deg);
+  -ms-transform: rotateY(180deg);
+  -o-transform: rotateY(180deg);
+  transform: rotateY(180deg);
+}
+
+.flip-container,
+.front,
+.back {
+  width: 23%;
+  float: left;
+  border-radius: 12px;
+}
+
+.flipper {
+  -webkit-transition: 0.6s;
+  -moz-transition: 0.6s;
+  transition: 0.6s;
+  -webkit-transform-style: preserve-3d;
+  -moz-transform-style: preserve-3d;
+  -ms-transform-style: preserve-3d;
+  -o-transform-style: preserve-3d;
+  transform-style: preserve-3d;
+  height: 100%;
+  position: relative;
+}
+
+.flipper .front,
+.flipper .back {
+  -webkit-backface-visibility: hidden;
+  backface-visibility: hidden;
+  -ms-backface-visibility: visible;
+  position: absolute;
+  top: 0;
+  left: 0;
+  height: 100%;
+  width: 100%;
+}
+
+.flipper .front {
+  -webkit-transform: rotateY(0deg);
+  -moz-transform: rotateY(0deg);
+  -ms-transform: rotateY(0deg);
+  -o-transform: rotateY(0deg);
+  transform: rotateY(0deg);
+  background: #ff2151;
+  box-shadow: #ffcca9 0 8px 2px;
+}
+
+.flipper .back {
+  -webkit-transform: rotateY(180deg);
+  -moz-transform: rotateY(180deg);
+  -ms-transform: rotateY(180deg);
+  -o-transform: rotateY(180deg);
+  transform: rotateY(180deg);
+  border: 1px solid #e8e8e8;
+  box-shadow: #b8afb2 0 8px 2px;
+}
+
+#html {
+  background: white url("img/html.svg") no-repeat center;
+  background-size: contain;
+}
+
+#css {
+  background: white url("img/css.svg") no-repeat center;
+  background-size: contain;
+}
+
+#js {
+  background: white url("img/js.svg") no-repeat center;
+  background-size: contain;
+}
+
+#bootstrap {
+  background: white url("img/bootstrap.svg") no-repeat center;
+  background-size: contain;
+}
+
+#angular {
+  background: white url("img/angular.svg") no-repeat center;
+  background-size: contain;
+}
+
+#react {
+  background: white url("img/react.svg") no-repeat center;
+  background-size: contain;
+}
+
+#vue {
+  background: white url("img/vue.svg") no-repeat center;
+  background-size: contain;
+}
+
+#nodejs {
+  background: white url("img/nodejs.svg") no-repeat center;
+  background-size: contain;
+}

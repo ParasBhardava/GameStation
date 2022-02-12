@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>TIC-TAC-TOE</title>
+    <link
+      href="https://fonts.googleapis.com/css2?family=Roboto:ital@1&display=swap"
+      rel="stylesheet"
+    />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Baloo+Bhaina+2:wght@500&display=swap"
+      rel="stylesheet"
+    />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Baloo+Bhaina+2:wght@500&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="stylesheet" href="style.css" />
+    <link rel="icon" href="../DESK/images.png" />
+  </head>
+
+  <body>
+    <video autoplay muted loop id="myVideo">
+      <source src="DESK/Black - 13494.mp4" type="video/mp4" />
+    </video>
+    <div class="head">
+      <h1>TIC-TAC-TOE</h1>
+    </div>
+    <div class="gameContainer">
+      <div id="dis" class="Container">
+        <div class="line"></div>
+        <div class="box bt-0 bl-0 cr"><span class="boxtext"></span></div>
+        <div class="box bt-0 cb"><span class="boxtext"></span></div>
+        <div class="box bt-0 br-0 cy"><span class="boxtext"></span></div>
+        <div class="box bl-0 cy"><span class="boxtext"></span></div>
+        <div class="box cr"><span class="boxtext"></span></div>
+        <div class="box br-0 cb"><span class="boxtext"></span></div>
+        <div class="box bl-0 bb-0 cb"><span class="boxtext"></span></div>
+        <div class="box bb-0 cy"><span class="boxtext"></span></div>
+        <div class="box bb-0 br-0 cr"><span class="boxtext"></span></div>
+      </div>
+      <div class="gameinfo">
+        <div class="win row">
+          <p>SCOREBOARD</p>
+        </div>
+        <div class="infoo row cr">
+          <span class="info"></span>
+        </div>
+        <div class="win row">
+          X-WON :-
+          <p class="X" style="display: inline">0</p>
+          TIMES
+        </div>
+        <div class="win row">
+          0-WON :-
+          <p class="0" style="display: inline">0</p>
+          TIMES
+        </div>
+        <div class="btndiv row">
+          <button onclick="myfun()" id="play" class="play btn">
+            PLAY AGAIN
+          </button>
+          <button id="reset" class="reset btn">Reset</button>
+          <a href="../index.html"
+            ><button id="home" class="btn">HOME</button></a
+          >
+        </div>
+      </div>
+    </div>
+    <script src="script.js"></script>
+  </body>
+</html>
