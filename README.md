@@ -12,7 +12,9 @@ Game Station : A simple and attractive static web app that contains 4 games
 - Player can see their score and also reset their score
 - Attractive UI and UX
 
-Languages : HTML, CSS, JAVASCRIPT, jQuery
-Tool : Visual Studio code
-Host: Azure
-Browser support : Microsoft Edge, Chrome, Firefox etc
+- Languages : HTML, CSS, JAVASCRIPT, jQuery
+- Tool : Visual Studio code
+- Host: Azure
+- Browser support : Microsoft Edge, Chrome, Firefox etc
+
+![alt text](http://url/to/img.png)
