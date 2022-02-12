@@ -18,4 +18,4 @@ Game Station : A simple and attractive static web app that contains 4 games
 - Host: Azure
 - Browser support : Microsoft Edge, Chrome, Firefox etc
 
-![home1](https://drive.google.com/file/d/1Qd6hPSHnfATqiKrs3Kp7Ff99KHDRGxWE/view?usp=sharing)
+![home1](https://drive.google.com/file/d/1Qd6hPSHnfATqiKrs3Kp7Ff99KHDRGxWE/view)
