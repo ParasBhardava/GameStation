@@ -23,18 +23,31 @@
 ### Home Page :
 ![home1](https://github.com/ParasBhardava/GameStation/blob/main/DESK/home1.png)
 
-
 ![home2](https://github.com/ParasBhardava/GameStation/blob/main/DESK/home2.png)
-
 
 ![home3](https://github.com/ParasBhardava/GameStation/blob/main/DESK/home3.png)
 
-
 ![home4](https://github.com/ParasBhardava/GameStation/blob/main/DESK/home4.png)
-
 
 ![home5](https://github.com/ParasBhardava/GameStation/blob/main/DESK/home5.png)
 
-
 ![home6](https://github.com/ParasBhardava/GameStation/blob/main/DESK/home6.png)
+
+### Tic-Tak_Toi Game: 
+![game1](https://github.com/ParasBhardava/GameStation/blob/main/DESK/game1.png)
+
+### Snack Game:
+![game2](https://github.com/ParasBhardava/GameStation/blob/main/DESK/game2.png)
+
+### Memory Game: 
+![game3](https://github.com/ParasBhardava/GameStation/blob/main/DESK/game3.png)
+
+### Dice Game: 
+![game4](https://github.com/ParasBhardava/GameStation/blob/main/DESK/game4.png)
+
+
+
+
+
+
 
