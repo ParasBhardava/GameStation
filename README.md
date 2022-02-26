@@ -13,13 +13,13 @@
 - Player can see their score and also reset their score
 - Attractive UI and UX
 
-### P.S. : Open Site in desktop because it contains various mouse effects.
-
 - Languages : HTML, CSS, Bootstarp, JAVASCRIPT, jQuery
 - Tool : Visual Studio code
 - Host: Azure
 - Browser support : Microsoft Edge, Chrome, Firefox etc
 
+### P.S. : Open Site in desktop because it contains various mouse effects.
+### 
 ### Project demo video link: https://drive.google.com/file/d/14ouMwZHaEkSsN_bwpyaKk94crYaSMwsE/view?usp=sharing
 
 ## Images :
