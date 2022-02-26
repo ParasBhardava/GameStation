@@ -18,9 +18,10 @@
 - Host: Azure
 - Browser support : Microsoft Edge, Chrome, Firefox etc
 
-### P.S. : Open Site in desktop because it contains various mouse effects.
-### 
+### Project Link: https://brave-sea-009aeab00.1.azurestaticapps.net/
+### Github Repositorie : https://github.com/ParasBhardava/GameStation
 ### Project demo video link: https://drive.google.com/file/d/14ouMwZHaEkSsN_bwpyaKk94crYaSMwsE/view?usp=sharing
+### P.S. : Open Site in desktop because it contains various mouse effects. 
 
 ## Images :
 
